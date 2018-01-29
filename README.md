@@ -15,5 +15,7 @@ La consigne donnée par THP est de détailler certains points particuliers, lesq
 
 **Mais avant !** J'aimerais qu'on prenne quelques profondes respirations pour détendre un peu son corps et son esprit, et aborder Rails bien tranqillement.
 
-![Sunset Yoga](/Users/Administrateur/Downloads/sunset_yoga)
-_Si t'es chaud.e, tu peux aussi aller faire la posture du guerrier sur une petite colline au coucher du soleil. Mais c'est toi qui voit._
+![Sunset Yoga](https://goo.gl/images/HR4WHj.png)
+_Si t'es chaud.e, tu peux aussi aller faire la posture du guerrier sur une petite colline au coucher du soleil. **Mais c'est toi qui voit.**_
+
+
