@@ -15,7 +15,7 @@ La consigne donnée par THP est de détailler certains points particuliers, lesq
 
 **Mais avant !** J'aimerais qu'on prenne quelques profondes respirations pour détendre un peu son corps et son esprit, et aborder Rails bien tranqillement.
 
-<p> <img "https://www.famousbirthdays.com/people/justin-bieber.html"/> </p>
+<p> <img "http://www.storystandardsguide.com/wp-content/uploads/2018/01/Yoga.jpeg"/> </p>
 *Si t'es chaud.e, tu peux aussi aller faire la posture du guerrier sur une petite plage au coucher du soleil.*
 
 Good ? **On y va.**
