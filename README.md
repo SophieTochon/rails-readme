@@ -1,6 +1,6 @@
 # Hello !
 
-**On va parler Rails tou.te.s les deux ❤️ _Prêt.e ?_**
+**On va discuter Rails tou.te.s les deux ❤️ _Prêt.e ?_**
 
 La consigne donnée par THP est de détailler quelques points particuliers :
 
@@ -96,6 +96,7 @@ CRUD stands for :
 - **Read** permet de lire les éléments de la base de données
 - **Update** permet d'éditer un élément de la base de données
 - **Delete** permet desupprimer un élément de la base de données
+
 
 <h2 align="center"> 🌴 La suite au prochain épisode 🌴 </p>
 
