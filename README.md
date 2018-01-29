@@ -98,7 +98,7 @@ CRUD stands for :
 - **Delete** permet desupprimer un élément de la base de données
 
 
-<h2 align="center"> 🌴 La suite au prochain épisode 🌴 </p>
+<h2 align="center"> 🌴 La suite au prochain épisode 🌴 </h2>
 
 ____
 
